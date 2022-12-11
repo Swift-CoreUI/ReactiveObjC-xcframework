@@ -1,0 +1,200 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Var",
+        "name": "RACCommandErrorNotEnabled",
+        "printedName": "RACCommandErrorNotEnabled",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Int",
+            "printedName": "Swift.Int",
+            "usr": "s:Si"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:12ReactiveObjC25RACCommandErrorNotEnabledSivp",
+        "mangledName": "$s12ReactiveObjC25RACCommandErrorNotEnabledSivp",
+        "moduleName": "ReactiveObjC",
+        "deprecated": true,
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "Available",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true,
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:12ReactiveObjC25RACCommandErrorNotEnabledSivg",
+            "mangledName": "$s12ReactiveObjC25RACCommandErrorNotEnabledSivg",
+            "moduleName": "ReactiveObjC",
+            "implicit": true,
+            "accessorKind": "get"
+          }
+        ]
+      },
+      {
+        "kind": "Var",
+        "name": "RACSelectorSignalErrorMethodSwizzlingRace",
+        "printedName": "RACSelectorSignalErrorMethodSwizzlingRace",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Code",
+            "printedName": "ReactiveObjC.RACSelectorSignalError.Code",
+            "usr": "c:@E@RACSelectorSignalError"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:12ReactiveObjC41RACSelectorSignalErrorMethodSwizzlingRaceSo0cdE0Vvp",
+        "mangledName": "$s12ReactiveObjC41RACSelectorSignalErrorMethodSwizzlingRaceSo0cdE0Vvp",
+        "moduleName": "ReactiveObjC",
+        "deprecated": true,
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "Available"
+        ],
+        "isLet": true,
+        "hasStorage": true,
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Code",
+                "printedName": "ReactiveObjC.RACSelectorSignalError.Code",
+                "usr": "c:@E@RACSelectorSignalError"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:12ReactiveObjC41RACSelectorSignalErrorMethodSwizzlingRaceSo0cdE0Vvg",
+            "mangledName": "$s12ReactiveObjC41RACSelectorSignalErrorMethodSwizzlingRaceSo0cdE0Vvg",
+            "moduleName": "ReactiveObjC",
+            "implicit": true,
+            "accessorKind": "get"
+          }
+        ]
+      },
+      {
+        "kind": "Var",
+        "name": "RACSignalErrorNoMatchingCase",
+        "printedName": "RACSignalErrorNoMatchingCase",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Int",
+            "printedName": "Swift.Int",
+            "usr": "s:Si"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:12ReactiveObjC28RACSignalErrorNoMatchingCaseSivp",
+        "mangledName": "$s12ReactiveObjC28RACSignalErrorNoMatchingCaseSivp",
+        "moduleName": "ReactiveObjC",
+        "deprecated": true,
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "Available"
+        ],
+        "isLet": true,
+        "hasStorage": true,
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:12ReactiveObjC28RACSignalErrorNoMatchingCaseSivg",
+            "mangledName": "$s12ReactiveObjC28RACSignalErrorNoMatchingCaseSivg",
+            "moduleName": "ReactiveObjC",
+            "implicit": true,
+            "accessorKind": "get"
+          }
+        ]
+      },
+      {
+        "kind": "Var",
+        "name": "RACSignalErrorTimedOut",
+        "printedName": "RACSignalErrorTimedOut",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Int",
+            "printedName": "Swift.Int",
+            "usr": "s:Si"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:12ReactiveObjC22RACSignalErrorTimedOutSivp",
+        "mangledName": "$s12ReactiveObjC22RACSignalErrorTimedOutSivp",
+        "moduleName": "ReactiveObjC",
+        "deprecated": true,
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "Available"
+        ],
+        "isLet": true,
+        "hasStorage": true,
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:12ReactiveObjC22RACSignalErrorTimedOutSivg",
+            "mangledName": "$s12ReactiveObjC22RACSignalErrorTimedOutSivg",
+            "moduleName": "ReactiveObjC",
+            "implicit": true,
+            "accessorKind": "get"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
